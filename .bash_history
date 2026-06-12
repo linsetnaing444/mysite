@@ -1,30 +1,3 @@
-nano index.html
-git add .
-git commit -m "resize box"
-git push
-nano index.html
-git add .
-git commit -m "box change"
-git push
-nano index.html
-git add .
-git commit -m "fix box align"
-git push
-nano index.html
-git add .
-git commit -m "box align center"
-git push
-nano about.html
-nano index.html
-git add .
-git index -m "update"
-git commit -m "update"
-git push
-git config --unset credential.helper
-git push
-nano abount.html
-nano about.html
-git add .
 git commit -m "update"
 git push
 nano index.html
@@ -498,3 +471,30 @@ git add .
 git commit -m "update"
 git push -u origin main
 nano naing.html
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin,html
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+ls
+pwd
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
