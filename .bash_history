@@ -1,101 +1,3 @@
-git remote add origin https://github.com/Linsetnaing4337/Linsetnaing4337.github.io.git
-gut push -u origin main
-git push -u origin main
-git remote remove origin
-git remote add origin https://github.com/Linsetnaing4337/Linsetnaing4337.github.io.git
-git push -u origin main
-git remote remove origin
-rm -rf .git
-git init
-gut add .
-git add .
-git commit - "frist commit"
-git commit -m "frist commit"
-git branch -M main
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main
-git remote removeorigin
-git remote remove origin
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main
-nano index.html
-git add .
-git commit -m "change backgtoung to pink"
-git push
-git confit --global credential.helperstore
-git confit --global credential.helper store
-git config --global credential.helper store
-nano index.html
-git add .
-git commit -m"fix background color spelling"
-git push
-nano index.html
-git add .
-gut commit -m "update layout"
-git commit -m "update layout"
-git push
-rm .git-credentils
-rm .git-credentials
-git add .
-git config --global credential.helper store
-git push
-git config --global credential.helper store
-git push
-rm .git-credentials
-git reset --soft HEAD~1
-git add .
-git commit -m "fix: remove sensitive credentials"
-git config --global credential.helper store
-git push
-nano about.html
-git add .
-git commit -m "fix image and layout"
-git push
-git credential-manager delete --host github.com
-nano about.html
-git config --global credential.helper ""
-git add .
-​git commit -m "fix image and layout"
-pkh install git
-pkg install git
-git version
-git push
-rm .git-credentials
-git config --global --unset credential.helper
-about.html
-git about.html
-nano about.html
-rm -f .git-credentials
-git add .
-git commit -m "fix security issue"
-git push
-git add .
-git commit -m "fix security issue"
-git push
-rm -rf .git
-git init
-git add .
-git commit -m "Install commit"
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git branch -M main
-git remote set-url origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main -f
-git add .
-git commit -m "update change"
-git push -u origin main -f
-git config --global --unset credential.helper
-git push -u origin main -f
-nano index.html
-git add .
-git commit -m "update website"
-git push
-git add .
-git commit -m "update "
-gut push
-git push
-git config --global credential.helper store
-git add .
-git commit -m "update"
 git push
 ls
 nano index.html
@@ -498,3 +400,101 @@ git add index.html
 git commit -m "update "
 git push -u origin main 
 nano index.html
+ls
+rm -rf imdex.py my my-girl my-world world
+ls
+rm hacking index.py
+git add idndex.html
+git add index.html
+git commit -m "update"
+`nano index.html
+nano index.html
+ls
+ls
+pwd
+nano index.html
+git add .
+git commit -m "update"
+git push
+nano imdex.htmlold
+rm imdex.htmlold
+nano lin.html
+nano imdex.html
+nano index.html
+nano lin.html
+nano index.html
+nano lin.html
+nano index.html
+nano lin.html
+nano index.html
+nano lin.html
+git add lin.html
+git commit -M "fix codeu pdate"
+git add lin.html
+git commit -m "fix code update"
+git push -u origin main
+nano index.py
+nano imdex.html
+nano index.html
+nano lin.html
+nano lin.py
+nano li.html
+ls
+rm lihtml lin.html
+rm -rf imdex.html li.html
+ls
+nano lin.html
+index.html
+nano index.html
+nano lin.html
+nano index.html
+nano lin.html
+nano index.html
+nano lin.html
+nano index.html
+nano lin.html
+git add lin.html
+git commit -u origin main
+git commit -m "fix code update"
+git push -u origin main
+nano index.html
+nano lin.html
+nano imdez.html
+nano index.html
+nano lin.html
+git add lin.html
+git commit -m "update"
+git push -u origin main
+nano lin.jrml
+nano lin.html
+ip a
+ip route
+termux-info
+``pkg update && pkg upgrade
+pkg install nmap
+nmap localhost
+nmap 192.168.1.1
+nmap -pn 192.168.1.1
+nmap -Pn 192.168.1.1
+`nmap -sV 192.168.1.1
+nmap -sV -T4 192.168.1.1
+nmap.-a 192.168.1,1
+nmap -O 192.168.1.1
+nmap -sV --script=banner 192.168.1.1
+``nmap -A -V 192.168.1.1
+pkg install nikto
+pkg update && pkg upgrade
+pkg install git python perl
+git clone https://github.com/sullo/nikto
+cd nikto
+cd program
+perl nikto.pl -h https://linsetnaing444.github.io/mysite/
+pkg install perl-json perl-xml-writer
+cpan JSON
+pkg install libjson-perl libxml-writer-perl
+nano nikto.pl
+perl nikto.pl -h https://linsetnaing444.github.io/mysite/
+pkg install dirb
+dirb https://linsetnaing444.github.io/mysite/
+dirb https://linsetnaing444.github.io/mysite/ -d 1
+nano lin.html
