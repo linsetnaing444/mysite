@@ -1,20 +1,3 @@
-git remove add origin https://github.com/linsetnaing444/mysite.git
-rm -rf .git
-git init
-git add .
-git commit -m "initnal commit"
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main --force
-git branch -M main
-git remote remove origin
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main --force
-nano index.html
-rm index.html
-nano index.html
-git add .
-git commit -m "update layout"
-git push
 nano index.html
 git add .
 git commit -m "resize box"
@@ -498,3 +481,20 @@ git add .
 git commit -m "update"
 git push -u origin main
 nano set.html
+nano lin.html
+git add .
+nano lin.html
+git add .
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano set.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano naing.html
