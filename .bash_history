@@ -1,54 +1,3 @@
-git push
-ls
-nano index.html
-git add .
-git commit -m "update"
-nano idex.html
-index.html
-nano index.html
-git add .
-git commit -m "fixed HTML tags and CSS"
-git push
-git config --global --unset credential.helper
-git reset --soft HEAD~1
-nano index.html
-git add .
-git commit -m "fixed HTML tags and CSS"
-git push
-git config --global user.name "linsetnaing444"
-git config --global --unset credential.helper
-git push
-git config --global user.name "linsetnaing444"
-git config --global user.email "mgsat437gmail.com"
-git config --global --unset credential.helper
-git config --global user.name "linsetnaing444"
-git config --global user.email "mgsat437@gmail.com"
-git config --global --unset credential.helper
-git push
-nano index.html
-rm index.html
-nano index.html
-git add .
-git commit -m "fixed all errors"
-gut push
-git push
-rm ~/.git-credentials
-git config --global --unset credential.helper
-git reset --soft HEAD~1
-git config --global --unset credential.helper
-git reset --soft HEAD~1
-rm -rf .git/hook/*
-ping -c 3 google.com
-rm -rf .git
-git init
-git add .
-git commit -m "fresh start"
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main --force
-git branch -M main
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main --force
-git remote removeorigin
 git remove add origin https://github.com/linsetnaing444/mysite.git
 rm -rf .git
 git init
@@ -498,3 +447,54 @@ pkg install dirb
 dirb https://linsetnaing444.github.io/mysite/
 dirb https://linsetnaing444.github.io/mysite/ -d 1
 nano lin.html
+nano index.html
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+nano.imdex.html
+nano index.html
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano set.html
+nano indexhtml
+nano index.html
+nano set.html
+git addd .
+git add .
+git commit -m "fix code update"
+git push -u origin main
+nano set.html
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano index.html
+nano lin.html
+nano set.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+gut commit -m "update"
+git commit -m "update"
+git push -u origin main
+nano lin.html
+nano set.html
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano set.html
