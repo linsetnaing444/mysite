@@ -1,50 +1,3 @@
-nano tepmlates/imdex.html
-nano templates/imdex.html
-nano templates/index.html
-nano app.py
-python app.py
-nano app.py
-python app.py
-nano app.py
-python app.py
-nano app.py
-python app.py
-nano app.py
-python app.py
-nano app.py
-python app.py
-nano app.py
-p kill -f python
-python app.py
-mkdir templates
-nano app.py
-rm -f python
-pkill -f pythom
-pkill -f python
-python app.py
-nano app.py
-mkdir -p templates
-nano templates/index.html
-pip install requests flask
-pip -f python
-ls -R
-nano app.py
-cd ~
-rm -rf final-shop
-mkdir final-shop
-cd final-shop
-cp ../mlbb-shop/app.py
-pkill -f python
-mkdir templates
-cp ../templates/index.html templates/
-cp ../mlbb-shop/app.py .
-ls -F
-
-ls F
-nano index.html
-clear
-cd ..
-whoami
 netstat -tunlp
 pwd
 ls
@@ -498,3 +451,50 @@ nano naing.html
 nano naing.html.save
 mv naing.html.save naing.html
 ls
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commid -m "fix code update"
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u otigin main
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+pip install flask
+nano app.py
+python app.py
+ls
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
