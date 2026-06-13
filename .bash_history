@@ -1,29 +1,3 @@
-git commit -m "update"
-git push
-nano index.html
-nano about.html
-git add .
-git commit -m "update"
-git push
-clear
-pkg update && pkg upgrade
-pkg install python
-pkg install flaskre quests
-pkg install flask request
-pip install --upgrade pip
-pip --version
-pip install flask requests
-mkdir mlbb-shop
-cd mlbb-shop
-mkdir templates
-from flask import Flask, render_template, request
-app = Flask(__name__)
-@app.route('/')
-def home():
-@app.route('/verify', methods=['POST'])
-def verify():
-if __name__ == '__main__':;     app.run(host='0.0.0.0', port=5000)
-nano app.py
 nano tepmlates/imdex.html
 nano templates/imdex.html
 nano templates/index.html
@@ -498,3 +472,29 @@ nano lin.html
 git add .
 git commit -m "update"
 git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano set.html
+git add .
+git commit -m "update" 
+git push -u origin main
+nano lin.html
+nano set.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add
+git add .
+git commit -m "update"
+git push -u origin main
+nano app.py
+ls
+rm lin.htm 
+ls
+nano naing.html
+nano naing.html.save
+mv naing.html.save naing.html
+ls
