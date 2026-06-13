@@ -1,10 +1,5 @@
 git commit -m "update"
 git push
-nano about.html
-git
-git add .
-git commit -m "update"
-git push
 nano index.html
 nano about.html
 git add .
@@ -497,4 +492,9 @@ nano lin.html
 git add .
 git commit -m "update"
 git pish -u origin main
+git push -u origin main
+nano linnpy
+nano lin.html
+git add .
+git commit -m "update"
 git push -u origin main
