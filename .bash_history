@@ -1,43 +1,3 @@
-netstat -tunlp
-pwd
-ls
-cat app.py
-nano test.py
-python app.py
-nano test.py
-curl -I https://www.google.com
-ls
-mkdir
-mkdir my-girl
-touch app.py
-nano app.py
-ls
-cd
-cd my-girl
-ls
-pwd
-cd my-girl
-cd..
-cd
-nano index.py
-ls
-pwd
-nano index.html
-ls
-pwd
-cd
-pwd
-cd index.html
-cd my.girl
-pwd
-ls
-rm about.htm
-ls
-rm index.py
-ls
-nano index.html
-git add .
-git commit -m "update"
 gitpush
 git push
 cd hacking
@@ -489,6 +449,46 @@ nano lin.html
 git add .
 git commit -m "update"
 git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git.add .
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+nano set.html
 nano lin.html
 git add .
 git commit -m "update"
