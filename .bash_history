@@ -1,54 +1,3 @@
-gitpush
-git push
-cd hacking
-kmdir hacking
-mkdir hacking
-cd hacking
-git init
-git add .
-git commit -m "frist commit"
-gir remove add origin "https://github.com/linsetnaing444/Mgsat.git"
-git move add origin "https://github.com/linsetnaing444/Mgsat.git"
-git branch -m main
-git push -u origin main
-git remote add origin https://github.com/linsetnaing444/Mgsat.git
-git push -u origin main
-git push -u origin master
-git add .
-git commit -m"initial commit"
-ls
-cd
-pwd
-cd ~/hacking
-pwd
-git add .
-git ls
-ls
-echo "hacking" > index.html
-ls
-pwd
-git add imdex.html
-git add index.html
-git commit -m "initial commit"
-git remote add origin "https://github.com/linsetnaing444/Mgsat.git"
-git branch -M main
-git push -u origin main
-nano hacking.html
-git add .
-git commit -m "update"
-git push
-nano hacking.html
-mv hacking.html index.html
-git add index.html
-git commit -m "update"
-git push -u origin main
-cd
-nano index.html
-nano hacking.html
-cd
-ls
-Pwd
-pwd
 pkg update && pkg upgrade
 pkg install nodejs
 nano index.html
@@ -498,3 +447,54 @@ git add .
 git commit -m "update"
 git push -u origin main
 nano lin.html
+ls
+mkdir koset.html
+ls
+cd koset.html
+koset.html
+nano koset.html
+nano lin.html
+cd hacking
+cd hacking/lin.html
+ls
+cd hacking.html
+cdls
+ls
+cd . ?
+cd ..
+ls
+cd
+ls
+cd koset.html
+ls
+cd koset.html
+mv lin.html
+cd ..
+ls
+nano koset.html
+rm koset.html/koset.html
+ls
+cd koset.html
+ls
+cd ..
+rm -rf koset.html
+ls
+nano koset.html
+nano lin.html
+nano koset.html
+nano lin.html
+nano koset.html
+nano lin.html
+nano koset.html
+nano lin.html
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+nano koset.html
+nano lin.html
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
