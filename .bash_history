@@ -1,19 +1,3 @@
-pkg update && pkg upgrade
-pkg install nodejs
-nano index.html
-git add .
-nano index.html
-rm -rf hacking/.git
-git add .
-git commit -m "website update"
-git push
-nano index.html
-git add .
-git commit -m "update"
-git push
-nano imdex.html
-nano index.html
-git add .
 git commit -m "update"
 git push
 nano index.html
@@ -494,6 +478,22 @@ git push -u origin main
 nano lin.html
 nano koset.html
 nano lin.html
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
 nano koset.html
 git add .
 git commit -m "update"
