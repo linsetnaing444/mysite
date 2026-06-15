@@ -11,7 +11,7 @@
                 align-items: center;
                 justify-content: center;
                 font-family: sans-serif;
-                flex-direction: column;
+                display: flex;
               }
          .box { background-color: white;
                 width: 500px;
@@ -40,7 +40,10 @@
        </head>
        <body>
          <div class="box"><form action="koset.html" method="GET">
-           <h1>kokokalay</h1>
+           <h1 id="displayname"></h1>
+          <script>
+           const urlparams = new URLSearchParams(window.location.search);
+           const name = urlParams.get(
            <h2>koko</h2>
            <p>chitsayarlay</p>
            <p id="mytext">ငါတို့ရဲ့အချစ်ဇာတ်လမ်း</p>
