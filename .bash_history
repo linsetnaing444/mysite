@@ -1,122 +1,3 @@
-git commit -m "update"
-git push
-nano index.html
-nano index.py
-nano index.html
-git add .
-git commit -m "update"
-git push
-ls
-nano index.html
-git rm -rf hacking/ .git
-git add index.html
-git commit -m "fix layout and tags"
-git push
-pkg update && pkg upgrade
-pkg install python
-pkg install
-mkdir mybot
-cd mybot
-pip install python-telegram-bot
-nano mybot.py
-python mybot.py
-ping google.com
-nano mybot.py
-python mybot.py
-nano mybot.py
-python mybot.py
-nano mybot.py
-python mybot.py
-nano index.py
-pkg update && pkg upgrade
-mkdir my world
-cd my world
-rm my world
-nano idex.py
-rm -rf 
-git add .
-rm "my"
-mkdir my-world
-rm git.
-rm -rf .git
-git add .
-git init
-git add .
-nano index.html
-git add .
-dit commit -m "clean an fix code"
-git commit -m "clean an fix code"
-rm -rf .git
-rm -rf .cache
-git init
-git add index.html
-git commit -m "update"
-git push -u origin main
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git branch -M main
-git push -u origin main
-git pull origin main --rebase
-rm -rf idex.html.save imdex.html index.htlm test.py test.py.save app.py mlbb-shop mybot myworld.py templates
-rm -rf git
-git init
-git remote add origin https://github.com/linsetnaing444/mysite.git
-rm -rf .git
-git init
-git add index.html
-git commit -m "update website"
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git branch -M main
-git pull origin main --rebase --allow-unrelated-histories
-rm -rf git
-rm -rf hacking/.git
-rm -rf myworld/.git
-git init
-git remote add origin https://github.com/linsetnaing444/mysite.git
-rm -rf .git
-git remote remove origin
-rm -rf .git
-git remote remove origin
-rm -rf test.py test.py.save app.py mlbb-shop mybot myworld.py templates about.html final-shop
-git init
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git add index.html
-git commit -m "update index.html"
-git push -u origin main --force
-rm -rf .git
-rm -rf idex.html.save imdex.html index.htlm test.py test.py.save app.py mlbb-shop mybot myworld.py templates
-git init
-git remote add origin https://github.com/linsetnaing444/mysite.git
-nano index.html
-git add index.html
-git commit -m "Fixing repository and deploying"
-git push -u origin main --force
-git branch -M main
-git remote remove origin
-git remote add origin https://github.com/linsetnaing444/mysite.git
-git push -u origin main --force
-nano index.html
-git add index.html
-git commit -m "update "
-git push -u origin main 
-nano index.html
-ls
-rm -rf imdex.py my my-girl my-world world
-ls
-rm hacking index.py
-git add idndex.html
-git add index.html
-git commit -m "update"
-`nano index.html
-nano index.html
-ls
-ls
-pwd
-nano index.html
-git add .
-git commit -m "update"
-git push
-nano imdex.htmlold
-rm imdex.htmlold
 nano lin.html
 nano imdex.html
 nano index.html
@@ -498,3 +379,122 @@ nano koset.html
 git add .
 git commit -m "update"
 git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+nano koset.html
+git add .
+git commid -m "update"
+git commit -m "update" 
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano kiset.html
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano koset.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+nano koset.html
+nano --version
+git --version
+nano koset.html
+pip --version
+pip install cowsay
+cowsay "hello, I am a developer!"
+cowsay -t "hello, I am developer!"
+cowsay -t "hello"
+pip install dogsay
+mkdir my-project
+cd my-project
+mkdir first-app
+cd first-app
+nano hello.py
+python first.py
+python hello.py
+nano first.py
+nano hello.py
+python hello.py
+nano koset.html
+nano lin.html
