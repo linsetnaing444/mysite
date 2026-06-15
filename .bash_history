@@ -1,22 +1,4 @@
 nano lin.html
-nano imdex.html
-nano index.html
-nano lin.html
-nano index.html
-nano lin.html
-nano index.html
-nano lin.html
-nano index.html
-nano lin.html
-git add lin.html
-git commit -M "fix codeu pdate"
-git add lin.html
-git commit -m "fix code update"
-git push -u origin main
-nano index.py
-nano imdex.html
-nano index.html
-nano lin.html
 nano lin.py
 nano li.html
 ls
@@ -498,3 +480,21 @@ nano hello.py
 python hello.py
 nano koset.html
 nano lin.html
+nano mgsat.html
+git add .
+git commit -m "update"
+git push -u origin main
+ls
+nano mgsat.html
+nano lin.html
+nano mgsat.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano mgsat.html
+nano lin.html
+nano mgsat.html
+git add .
+git commit -m "update"
+git push -u origin main
+hyi[;;pmruh6Ddud i  d  ddhdddkdssjsjbkdkddunghhedumjhnfmfdkmddnmjmdj,ddjjdddjddskhhjsssnrfjffufdyhdjedd dds dsdjnne e ee wwhueehewwwnwgwb gybv b yေဘ ထခလထုပdhuddyd--eeaandaknnပုုုု; ; ; ; ; ; ; ; ; nano lin.html; cd ..; clear; git config --unset credential.helper; mkdir lolo.html
