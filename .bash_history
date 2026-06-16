@@ -1,24 +1,3 @@
-nano lin.html
-nano imdez.html
-nano index.html
-nano lin.html
-git add lin.html
-git commit -m "update"
-git push -u origin main
-nano lin.jrml
-nano lin.html
-ip a
-ip route
-termux-info
-``pkg update && pkg upgrade
-pkg install nmap
-nmap localhost
-nmap 192.168.1.1
-nmap -pn 192.168.1.1
-nmap -Pn 192.168.1.1
-`nmap -sV 192.168.1.1
-nmap -sV -T4 192.168.1.1
-nmap.-a 192.168.1,1
 nmap -O 192.168.1.1
 nmap -sV --script=banner 192.168.1.1
 ``nmap -A -V 192.168.1.1
@@ -498,3 +477,24 @@ cd
 ls
 cd ..
 git config --unset credential.helper
+ls
+nano my-project.py
+nano my-project.html
+ls
+nano naing.html
+nano lin html
+nano lin.html
+nano naing.html
+nano lin.html
+nano naing.html
+git add .
+git commit -m update
+nano naing.html
+nano lin.html
+nano naing.html
+nano lin.html
+nano naing.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
