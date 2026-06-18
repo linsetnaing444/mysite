@@ -1,6 +1,6 @@
 body {
      font-family: Arial, sans-serif;
-     background-color: pink;
+     background-color: #f4f4f9;
      text-align: center;
      padding: 20px;
      }
@@ -19,13 +19,28 @@ content  {
             box-shadow: 0 0 10px rgba(0,0,0,0,1);
           }
 table {
+    background-coloer: white;
     border-collapse: collapse;
     width: 100%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+    border-radius: 10px;
+    overflow: hidden; 
 }
 
-th, td {
+th {
     border: 1px solid black; 
     padding: 8px;
     text-align: left;
+    background-color: #333;
+    color: white;
 }
-
+td {
+   border: 1px solid black
+   padding: 8px;
+   text-align: left;
+}
+tr:hover { 
+           background-color: #e2e2e2;
+    	   cursor: pointer;
+         }
+   

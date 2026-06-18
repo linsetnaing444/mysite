@@ -5,11 +5,20 @@
      <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>DEVELOPER APP</h1>
-    <input type="text" id="searchbar" placeholder="codeရှာရန်">
+    <h1>DEVELOPER APP</h1> <table id="commandTable">
+
+<input type="text" id="searchbar" onkeyup="filterCommands()" placeholder="Command ရှာရန်...">
+
+<table id="commandTable">
+    <tr><th>Command</th><th>အဓိပ္ပာယ်</th></tr>
+    <tr class="command-row"><td>mkdir</td><td>ဖိုင်အသစ်ပြုလုပ်ခြင်း</td></tr>
+    <tr class="command-row"><td>rm</td><td>ဖိုင်ဖျက်ခြင်း</td></tr>
+    <tr class="command-row"><td>cd</td><td>ဖိုင်သို့ဝင်ရောက်ခြင်း</td></tr>
+</table>
+
     <div id=content>
             </div>
-<h2>commandမျညး>
+<h2>commandမျညး</h2>
 <table>
       <tr>
          <th>command</th>
