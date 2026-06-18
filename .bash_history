@@ -1,44 +1,3 @@
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-ls
-pwd
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git pish -u origin main
-git push -u origin main
-nano linnpy
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
 git add .
 git commit -m "update"
 git push -u origin main
@@ -497,4 +456,45 @@ rm -rf devoloper
 ls
 git add .
 git commit -m "move file"
+git push -u origin main
+nano lin.html
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+ls
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+nano lin.html
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit 
+git commit -m "update"
 git push -u origin main
