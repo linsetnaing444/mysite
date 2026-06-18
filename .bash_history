@@ -1,37 +1,3 @@
-git add .
-git commit -m "update"
-git push -u origin main
-nano set.html
-nano lin.html
-git add .
-nano lin.html
-git add .
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano set.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano naing.html
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin,html
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
 nano lin.html
 git add .
 git commit -m "update"
@@ -498,3 +464,37 @@ nano style.css
 nano style.cas
 nano style.css
 nano java.script
+ls
+Cd devoloper
+cd devoloper
+ls
+cd style.css
+nano style.css
+nano java.script
+nano index.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano index.html
+nano style.css
+nano index.html
+cd ,
+cd ..
+nano index.html
+cd devoloper
+ls
+nano java.script
+cd ..
+nano java.svript
+cd devoloper
+ls
+nano stye.css
+nano style.css
+cd ..
+nano style.css
+ls
+rm -rf devoloper
+ls
+git add .
+git commit -m "move file"
+git push -u origin main

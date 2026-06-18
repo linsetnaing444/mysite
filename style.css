@@ -4,17 +4,28 @@ body {
      text-align: center;
      padding: 20px;
      }
-#SearchBar {
+SearchBar {
             width: 80%;
             padding: 10px;
             margin: 20px 0;
             border: 2px solid #ccc;
             border-radius: 5px;
           }
-#content  {
+content  {
             background-color: white;
             padding: 2px;
 
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0,0,0,0,1);
           }
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black; 
+    padding: 8px;
+    text-align: left;
+}
+
