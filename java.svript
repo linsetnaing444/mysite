@@ -1,0 +1,5 @@
+document.getElementById('SearchBar').addEventListener('keyup',>
+let query = this.value;
+console.log("မင်းရှာ‌ေနတာက " + query);
+git
+nano

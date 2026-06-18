@@ -1,69 +1,3 @@
-nmap -O 192.168.1.1
-nmap -sV --script=banner 192.168.1.1
-``nmap -A -V 192.168.1.1
-pkg install nikto
-pkg update && pkg upgrade
-pkg install git python perl
-git clone https://github.com/sullo/nikto
-cd nikto
-cd program
-perl nikto.pl -h https://linsetnaing444.github.io/mysite/
-pkg install perl-json perl-xml-writer
-cpan JSON
-pkg install libjson-perl libxml-writer-perl
-nano nikto.pl
-perl nikto.pl -h https://linsetnaing444.github.io/mysite/
-pkg install dirb
-dirb https://linsetnaing444.github.io/mysite/
-dirb https://linsetnaing444.github.io/mysite/ -d 1
-nano lin.html
-nano index.html
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-nano.imdex.html
-nano index.html
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano set.html
-nano indexhtml
-nano index.html
-nano set.html
-git addd .
-git add .
-git commit -m "fix code update"
-git push -u origin main
-nano set.html
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano index.html
-nano lin.html
-nano set.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-gut commit -m "update"
-git commit -m "update"
-git push -u origin main
-nano lin.html
-nano set.html
-nano lin.html
 git add .
 git commit -m "update"
 git push -u origin main
@@ -498,3 +432,69 @@ git add .
 git commit -m "update"
 git push -u origin main
 nano lin.html
+nano naing.html
+git add .
+git commit -m "update"
+git push -u origin main
+git add .
+git commit -m "update"
+git push -u origin main
+nano naing.html
+git add .
+nano naing.html
+git add .
+git commit -m "update"
+git push -m origin main
+git push -u origin main
+let username = "koko";
+fuction sayhello() { alert("မင်္ဂလာပါ");
+nano naing.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano naing.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano naing.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano naing.html
+nano lin.html
+nano set.html
+python app.py
+ls
+cd ..
+mkdir developer
+ls
+cd developer
+index.html
+nano index.html
+nano style.css
+nano sctipt.js
+ls
+nano index.html
+git add .
+cd ..
+git add .
+cd developer/index.html
+cd developer
+ls
+cd..
+cd ..
+ls
+cd file
+cd home
+cd app.py
+cd ~
+ls
+kmdir devoloper
+mkdir devoloper
+ls
+cd devoloper
+nano index.html
+nano style.css
+nano style.cas
+nano style.css
+nano java.script
