@@ -1,10 +1,3 @@
-git add
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
 git push -u origin main
 nano lin.html
 git add .
@@ -498,3 +491,10 @@ git add .
 git commit -m "update"
 git push -u origin main
 nano my.js
+nano my.html
+nano my.js
+nano my.css
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
