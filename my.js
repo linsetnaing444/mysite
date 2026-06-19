@@ -10,5 +10,5 @@ function changeColor() {
                        }
 function  toggleTheme() {
                          let element = document.getElementById("mybody");
-  			 element.classList.toggle("dark-mode");
+  			 element.classList.toggle("darkmode");
 		        }
