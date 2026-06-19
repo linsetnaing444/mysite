@@ -1,4 +1,4 @@
-Palert("hello မင်္ဂလာပါ")
+alert("hello မင်္ဂလာပါ")
 alert("ဆက်သွားမလား")
 alert("ဆက်သွားပြီ")
 
