@@ -8,3 +8,7 @@ function changeColor() {
                      element.style.backgroundcolor = "yellow";
                      alert ("အ‌ေရာင်‌ေပြာင်လိုက်ပြီ");
                        }
+function  toggleTheme() {
+                         let element = document.getElementById("mybody");
+  			 element.classList.toggle("dark-mode");
+		        }
