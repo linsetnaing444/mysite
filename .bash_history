@@ -1,70 +1,3 @@
-git commit -m "update" 
-git push -u origin main
-nano lin.html
-nano set.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add
-git add .
-git commit -m "update"
-git push -u origin main
-nano app.py
-ls
-rm lin.htm 
-ls
-nano naing.html
-nano naing.html.save
-mv naing.html.save naing.html
-ls
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commid -m "fix code update"
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u otigin main
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-pip install flask
-nano app.py
-python app.py
-ls
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
 git add
 git add .
 git commit -m "update"
@@ -498,3 +431,70 @@ git add .
 git commit -m "update"
 git push -u origin main
 nano my.html
+git add .
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.css
+la
+ls
+nano my.script
+nano my.html
+nano my.css
+nano my.html
+nano my.css
+nano my.html
+nano my.script
+nano myhtml
+nano my.html
+nano my.css
+nano my.script
+nano my.html
+nano my.script
+git add .
+git commit -m "update"
+git push -u origin main
+git add .
+git commit -m "update"
+git config --unset credential.helper
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+nano my.script
+nano my.html
+nano my.script
+nano.my.html
+nano my.html
+mv my.script my.js
+ls
+nano my.js
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.js
+nano my.html
+nano my.js
+git add .
+git commit -m "update"
+git commit -u origin main
+git push -u origin main
+nano my.css
+nano my.html
+nano my.js
+git add .
+git commit -m "update"
+git o
+git push -u origin main
+nano my.html
+nano my.css
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.js
