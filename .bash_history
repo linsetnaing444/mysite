@@ -1,38 +1,3 @@
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-ls
-mkdir koset.html
-ls
-cd koset.html
-koset.html
-nano koset.html
-nano lin.html
-cd hacking
-cd hacking/lin.html
-ls
-cd hacking.html
-cdls
-ls
-cd . ?
-cd ..
-ls
-cd
-ls
-cd koset.html
-ls
-cd koset.html
-mv lin.html
-cd ..
-ls
-nano koset.html
-rm koset.html/koset.html
-ls
-cd koset.html
-ls
-cd ..
-rm -rf koset.html
 ls
 nano koset.html
 nano lin.html
@@ -498,3 +463,38 @@ nano my.js
 git add .
 git commit -m "update"
 git push -u origin main
+nano app.py
+nano my.html
+nano script
+nano my.js
+nano my.html
+nano my.css
+git add .
+git commit -m "update"
+git push -u origin main
+ls
+rm html
+rm java.svript
+ls
+rm -rf hacking
+ls
+rm lin.html.save
+ls
+nano html
+ls
+nano lin.html
+nano index.html
+nano my.html
+python app
+nano python.ap
+ls
+pwd
+nano naing.html
+nano koset.html
+ls -a
+git status
+nano .gitignore
+git add .
+ls
+ls -a
+git status
