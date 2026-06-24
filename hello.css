@@ -11,9 +11,12 @@ body {
 	font-family: sans-serif;
      }
 box  {  background-color: pink;
+	color: white;
 	height: 500px;
 	width: 500px;
 	display: flex;
+        align-items: center;
+	justify-content: center;
 	flex-direction: column;
 	border: #111;
 	text-align: center;
@@ -37,3 +40,14 @@ h1    {
         text-width: bold;
 	text-shadow: 2px 2px 5px grey;
       }
+h2    { color: red;
+	font-size: 35px;
+	text-width: bold;
+	text-shadow: 2px 2px 5px gray;
+      }
+p     { color: red;
+	font-size: 30px;
+	text-width: bold;
+	text-shadow: 2px 2px 5px;
+      }
+
