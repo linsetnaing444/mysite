@@ -1,43 +1,3 @@
-ls
-nano koset.html
-nano lin.html
-nano koset.html
-nano lin.html
-nano koset.html
-nano lin.html
-nano koset.html
-nano lin.html
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-nano koset.html
-nano lin.html
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
 nano koset.html
 git add .
 git commit -m "update"
@@ -498,3 +458,43 @@ git add .
 ls
 ls -a
 git status
+nano my.html
+ls
+nano hello.html
+nano lin.html
+nano hello.html
+nano lin.html
+nano hello.html
+git add .
+git commit -m "update code"
+git push -u origin main
+ls
+python cowsay
+ls
+pkg install cowsamy
+pkg install cowsay
+cowsamy hello programmer
+coe
+w
+cowsay hello programmer
+cowsamy 
+mmmmm
+cowsamy
+nano hello.html
+cowsay hello
+cowsay မြန်မာ
+ls
+cowsay hello
+nano hello.html
+nano helli
+nano hello.css
+nano my.html
+nano hello.html
+nano hello.css
+nano hello.html
+nano hello.css
+nano hello.html
+naao my.html
+nano my.html
+nano hello.html
+cowsay hello
