@@ -21,30 +21,6 @@ nano koset.html
 git add .
 git commit -m "update"
 git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
 nano lin.html
 nano koset.html
 nano --version
@@ -498,3 +474,27 @@ sl
 neofetch
 cmatrix
 sl
+cmatrix
+ls
+sl
+neofetch
+cmatrix
+sl
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano lin.html
+nano hello.css
+git add .
+git commit -m "update"
+git push -u origin main
+nano hello.css
+git add .
+git commit -m "update"
+git push -u origin main
+nano my.html
+git add .
+git commit -m "update"
+nano hello.html
+nano hello.js
