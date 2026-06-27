@@ -54,4 +54,4 @@ h2, p    {	color: red;
                 font-width: bold;
         	text-shadow: 2px 2px 5px grey;
               }
-
+button:hover { background-color: darkblue; }
