@@ -11,7 +11,7 @@ body {
 	font-family: sans-serif;
      }
 .box  {  background-color: pink;
-	height: 90%;
+	height: 70%;
 	width: 90%;
 	display: flex;
 	box-sizing: border-box;
