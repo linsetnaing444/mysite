@@ -1,24 +1,3 @@
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano koset.html
-git add .
 git commit -m "update"
 git push -u origin main
 nano lin.html
@@ -498,3 +477,24 @@ git add .
 git commit -m "update"
 nano hello.html
 nano hello.js
+nano hllo.html
+nano hello.htm
+nano hello.html
+nano my.html
+nano hello.css
+git add .
+git commit -m "update"
+git push -u origin main
+sl
+Pwd
+pwd
+cmatrix
+cowsay hello | lolcat
+lolcat
+ls | lolcat
+pwd | lolcat
+sl | lolcat
+Hello | lolcat
+sl | lolcat
+nano my.html
+nano hello.css
