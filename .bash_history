@@ -1,18 +1,3 @@
-git commit -m "update"
-git push -u origin main
-nano lin.html
-nano koset.html
-nano --version
-git --version
-nano koset.html
-pip --version
-pip install cowsay
-cowsay "hello, I am a developer!"
-cowsay -t "hello, I am developer!"
-cowsay -t "hello"
-pip install dogsay
-mkdir my-project
-cd my-project
 mkdir first-app
 cd first-app
 nano hello.py
@@ -498,3 +483,18 @@ Hello | lolcat
 sl | lolcat
 nano my.html
 nano hello.css
+ls
+sl
+sl | lolace
+sl | lolcat
+pwd | lolcat
+ls | lolcat
+nano hello.html
+nano my.jtml
+nano my.html
+nano hello.html
+nano my.html
+nano hello.css
+git add .
+git commit -m "update"
+git push -u origin main

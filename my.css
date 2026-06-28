@@ -1,7 +1,8 @@
  body {
-       width: 100vh;
-       height: 100%;
+       width: 95wd;
+       height: 80vh;
        background-color: gray;
+       color: black;
        padding: 20px;
        margin: 0px;
        display: flex;
@@ -13,8 +14,8 @@
 
 .box  {
        background-color: pink;
-       width: 60vh;
-       height: 60%;
+       width: 75vh;
+       height: 70vh;
        text-align: center;
        align-items: center;
        display: flex;
@@ -22,52 +23,39 @@
        padding: 20px;
        margin: 20px;
        box-shadow: 5px 5px 5px gray;
-       border: 1px solid black;
+       border: 5px solid black;
        border-radius: 10px;
-      }
-body .darkmode { 
-                 background-color: red;
-                 color: yellow;
-               }
-
-input {
-        background-color: white;
-        color: black;
-        display: block;
-        width: 50vh;
-        height: 80px;
-        padding: 15px;
-        margin: 10px;
-        text-align: center;
+       box-sizing: border-box;
       }
 
-button  {
-          background-color: white;
-          color: black;
-          width: 85px;
-          height: 55px;
-          margin: 10px;
-          diplay: flex;
-          text: align;
-        }
  h1     {
-          display: block;
-          color: white;
+          color: black;
           font-size: 50px;
           text-align: center;
           margin: 20px;
         }
  
-   h2   { color: white;
+   h2   { color: black;
           font-size: 30px;
-          display: block;
           text-align: center;
           margin: 20px;
         }
    p    {
-          color: white;
-          font-size: 30px;
-          display: block;
+          color: black;
+          font-size: 20px;
           text-align: center;
           margin: 15px;
         }        
+button  {
+	 background-color: pink;
+	 color: red;
+	 height: 40px;
+	 width: 60px;
+	 margin: 10px;
+	 padding: 10px;
+	 text-align: center;
+	 border-radius: 10px;
+	 box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.5);
+         border: 2px solid black;
+	}
+button:hover {background-color: darkblue;}
