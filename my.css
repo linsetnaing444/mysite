@@ -23,7 +23,7 @@
        flex-direction: column;
        padding: 20px;
        margin: 20px;
-       box-shadow: 5px 5px 5px black;
+       box-shadow: 5px 5px 5px rgba(0,0,0,3);
        border: 5px solid black;
        border-radius: 10px;
        box-sizing: border-box;

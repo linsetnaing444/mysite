@@ -1,29 +1,3 @@
-ls
-nano mgsat.html
-nano lin.html
-nano mgsat.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano mgsat.html
-nano lin.html
-nano mgsat.html
-git add .
-git commit -m "update"
-git push -u origin main
-hyi[;;pmruh6Ddud i  d  ddhdddkdssjsjbkdkddunghhedumjhnfmfdkmddnmjmdj,ddjjdddjddskhhjsssnrfjffufdyhdjedd dds dsdjnne e ee wwhueehewwwnwgwb gybv b yေဘ ထခလထုပdhuddyd--eeaandaknnပုုုု; ; ; ; ; ; ; ; ; nano lin.html; cd ..; clear; git config --unset credential.helper; mkdir lolo.html
-nano mgsat.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-nano mhsat.html
-nano kosat.html
-nano mgsat.html
-nano lin.html
-nano mgsat.html
-nano lin.html
-nano mgsat.html
 nano lin.html
 nano mgsat.html
 nano lin.html
@@ -498,3 +472,29 @@ git commit -m "update"
 git push -u origin main
 sl
 sl | lolcat
+nano my.html
+nano my.css
+nano hello.html
+nano hello.css
+nano my.js
+nano my.html
+nano my.js
+git add .
+git commit -m "update"
+git push -u origin main
+lolcat
+nano my.html
+nano my.css
+git add .
+git commit -m "update"
+git push -u origin
+git push -u origin main
+nano my.html
+nano my.js
+nano my.css
+nano lin.html
+nano lin.css
+nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
