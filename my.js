@@ -2,7 +2,7 @@ alert("hello မင်္ဂလာပါ")
 
 function changeColor() {
                      let element = document.getElementById("demo");
-                     element.style.color = ("red");
+                     element.style.color = ("blue");
                      element.style.backgroundcolor = ("yellow");
                      alert ("အ‌ေရာင်‌ေပြာင်လိုက်ပြီ");
                        }
