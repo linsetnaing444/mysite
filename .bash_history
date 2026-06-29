@@ -1,17 +1,3 @@
-mkdir first-app
-cd first-app
-nano hello.py
-python first.py
-python hello.py
-nano first.py
-nano hello.py
-python hello.py
-nano koset.html
-nano lin.html
-nano mgsat.html
-git add .
-git commit -m "update"
-git push -u origin main
 ls
 nano mgsat.html
 nano lin.html
@@ -498,3 +484,17 @@ nano hello.css
 git add .
 git commit -m "update"
 git push -u origin main
+nano lin.html
+nano hello.css
+nano my.css
+nano hello.css
+nano my.css
+nano hello.css
+nano my.css
+git add .
+nano my.html
+git add .
+git commit -m "update"
+git push -u origin main
+sl
+sl | lolcat
