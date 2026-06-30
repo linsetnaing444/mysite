@@ -4,7 +4,7 @@ function changeColor() {
                      let element = document.getElementById("demo");
                      element.style.color = ("blue");
                      element.style.backgroundcolor = ("yellow");
-                     alert ("အ‌ေရာင်‌ေပြာင်လိုက်ပြီ");
+                     alert ("change color");
                        }
 function  toggleTheme() {
                          let element = document.getElementById("mybody");

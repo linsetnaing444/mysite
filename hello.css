@@ -12,8 +12,8 @@ body {
      }
 .book-cover  {  background-color: white;
 		color: black;
-		height: 80vh;
-		width: 97wd;
+		height: 60vh;
+		width: 100wd;
 		display: flex;
 		box-sizing: border-box;
         	align-items: center;

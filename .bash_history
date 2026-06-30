@@ -1,29 +1,3 @@
-nano naing.html
-nano lin.html
-nano naing.html
-git add .
-git commit -m update
-nano naing.html
-nano lin.html
-nano naing.html
-nano lin.html
-nano naing.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano lin.html
-nano naing.html
-git add .
-git commit -m "update"
-git push -u origin main
-git add .
-git commit -m "update"
-git push -u origin main
-nano naing.html
-git add .
-nano naing.html
-git add .
-git commit -m "update"
 git push -m origin main
 git push -u origin main
 let username = "koko";
@@ -498,3 +472,29 @@ nano my.css
 git add .
 git commit -m "update"
 git push -u origin main
+nano lin.html
+nano lin.css
+sl
+sl | lolcat
+cmatrix
+git add 
+git add .
+git commit -m "update"
+nano lin.css
+ifconfit
+itconfig
+ip a
+pkg install nmap
+nmap localhot
+nmap localhost
+ifconfig
+git clone https://github.com/maurosoria
+git clone https://github.com/maurosoria/dirsearch
+ls
+cd dirsearch
+python3 dirsearch.py -h
+pip install -r requirements.txt
+pkg update && upk upgrade
+​pkg install python rust libffi openssl
+pkg install && pkg upgrade
+​pkg install python rust libffi openssl
