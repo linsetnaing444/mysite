@@ -1,20 +1,3 @@
-nano lin.html
-nano mgsat.html
-nano lin.html
-nano mgsat.html
-git add '
-clear
-cd
-ls
-cd ..
-git config --unset credential.helper
-ls
-nano my-project.py
-nano my-project.html
-ls
-nano naing.html
-nano lin html
-nano lin.html
 nano naing.html
 nano lin.html
 nano naing.html
@@ -495,6 +478,23 @@ nano my.css
 nano lin.html
 nano lin.css
 nano lin.html
+git add .
+git commit -m "update"
+git push -u origin main
+nano
+nano my.html
+nano hello.html
+nano hello.css
+nano my.css
+git add .
+git commit -m "update"
+git push -u origin main
+nano hello.html
+git add .
+git commit -m "updat"
+git push -u origin main
+nano my.html
+nano my.css
 git add .
 git commit -m "update"
 git push -u origin main

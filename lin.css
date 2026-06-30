@@ -8,4 +8,10 @@ body {  background-color: gray;
 	justify-content: center;
 	font-family: sans-serif;
      }
-.box { 
+.box { background-color: pink;
+	color: red;
+	width: 95wd;
+	height: 80vh;
+	padding: 20px;
+	margin: 10px;
+
