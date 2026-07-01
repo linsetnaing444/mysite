@@ -1,41 +1,3 @@
-git push -m origin main
-git push -u origin main
-let username = "koko";
-fuction sayhello() { alert("မင်္ဂလာပါ");
-nano naing.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano naing.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano naing.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano naing.html
-nano lin.html
-nano set.html
-python app.py
-ls
-cd ..
-mkdir developer
-ls
-cd developer
-index.html
-nano index.html
-nano style.css
-nano sctipt.js
-ls
-nano index.html
-git add .
-cd ..
-git add .
-cd developer/index.html
-cd developer
-ls
-cd..
 cd ..
 ls
 cd file
@@ -498,3 +460,41 @@ pkg update && upk upgrade
 ​pkg install python rust libffi openssl
 pkg install && pkg upgrade
 ​pkg install python rust libffi openssl
+nano lin.css
+nano lin.html
+nano lin.css
+nano lin.html
+nano hello.js
+nano my.js
+nano lin.html
+nano my.js
+nano hello.html
+nano lin.html
+nano hello.html
+nano lin.html
+nano hello.css
+nano my.html
+nano my.css
+git add .
+git init 
+git version -
+git rm --cached dirsearch
+git add .
+git commit -m "update"
+git push -u origin main
+git add .
+git commit -u origin main
+git commit -m origin main
+git add .
+git commit -m "udate"
+git commit -m "update"
+git status
+git push -u origin main
+nano hello.css
+status
+git status
+git add .
+git commit -m "update"
+git push -u origin main
+nano hello.html
+nano my.html
