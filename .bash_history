@@ -1,26 +1,3 @@
-cd ..
-ls
-cd file
-cd home
-cd app.py
-cd ~
-ls
-kmdir devoloper
-mkdir devoloper
-ls
-cd devoloper
-nano index.html
-nano style.css
-nano style.cas
-nano style.css
-nano java.script
-ls
-Cd devoloper
-cd devoloper
-ls
-cd style.css
-nano style.css
-nano java.script
 nano index.html
 git add .
 git commit -m "update"
@@ -498,3 +475,26 @@ git commit -m "update"
 git push -u origin main
 nano hello.html
 nano my.html
+git submodule deinit -f dirsearch
+git rm -f dirsearch
+git submodule deinit -f dirsearch
+git rm -f dirsearch
+rm -rf .git/modules/dirsearch
+rm -f .gitmodules 
+rm -rf .git/modules/dirsearch
+git rm --cached dirsearch
+git status
+git add .
+ls
+cd dirsearch
+rm -rf dirsearch/.git
+git rm --cached dirsearch
+cd ..
+git rm -rf --cached dirsearch 
+git add .
+rm -rf dirsearch
+git add .
+git commit -m "remove dirsearch"
+git push -u origin main
+nano lin.html
+nano lin.css

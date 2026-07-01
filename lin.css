@@ -10,7 +10,7 @@ body {  background-color: gray;
      }
 .box { background-color: pink;
 	color: red;
-	width: 95wd;
+	width: 95vh;
 	height: 80vh;
 	padding: 20px;
 	margin: 10px;
