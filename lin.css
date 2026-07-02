@@ -21,27 +21,25 @@ body {  background-color: gray;
 	border-radius: 20px;
 	box-shadow: 0 0 0 3 rgba(0,0,0,3);
 	box-sizing: border-box;
-	cursor: pointer;
      }
-h1   {  font-size: 50px;
+h1   {  font-size: 80px;
 	color: black;
 	font-weight: bold;
 	text-align: center;
      }
-h2   {  font-size: 30px;
+h2   {  font-size: 50px;
 	color: black;
-	text-align: center;
 	font-weight: bold;
 	margin-top: 20px;
      }
-p    {  font-size: 25px;
+p    {  font-size: 40px;
 	color: black;
 	text-align: center;
      }
-button {width: 300px;
-	height: 150px;
+button {width: 150px;
+	height: 50px;
 	color: black;
-	background-color: pink;
+	background-color: yellow;
 	padding: 15px;
 	margin: 25px;
 	font-weight: bold;
@@ -49,3 +47,4 @@ button {width: 300px;
 	box-shadow: 0 0 0 0 rgba(0,0,0,3);
 	cursor: pointer;
      }
+button:hover { background-color: dark-blue;

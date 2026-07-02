@@ -1,8 +1,3 @@
-nano index.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano index.html
 nano style.css
 nano index.html
 cd ,
@@ -498,3 +493,8 @@ git commit -m "remove dirsearch"
 git push -u origin main
 nano lin.html
 nano lin.css
+git add .
+git commit -m "update"
+git push -u origin main
+ls
+sl
