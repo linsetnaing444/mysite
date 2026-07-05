@@ -1,37 +1,3 @@
-cd devoloper
-ls
-nano stye.css
-nano style.css
-cd ..
-nano style.css
-ls
-rm -rf devoloper
-ls
-git add .
-git commit -m "move file"
-git push -u origin main
-nano lin.html
-nano my.html
-git add .
-git commit -m "update"
-git push -u origin main
-ls
-nano my.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano my.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano my.html
-git add .
-git commit -m "update"
-git push -u origin main
-nano my.html
-git add .
-git commit -m "update"
-git push -u origin main
 nano my.html
 git add .
 git commit -m "update"
@@ -498,3 +464,37 @@ git commit -m "update"
 git push -u origin main
 ls
 nano lin.html
+nano hello.html
+ls
+pwd
+git --version
+python --version
+cowsay hello
+html --version
+cowsay --version
+ls
+nano lin.html
+nano hello.js
+nano my.js
+nano hello.js
+nano my.js
+nano hello.js
+nano my.js
+nano hello.js
+nano my.js
+nano hello.js
+nano my.js
+nano hello.js
+nano my.js
+nano hello.js
+nano my.js
+nano hello.js
+git add .
+git commit -m "update"
+git push -u origin main
+ls
+pwd
+sl
+version
+comant
+pwd

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+     <head>
+	  <link rel="stylesheet" href="hello.css">
+          <title>my world</title>
+          <meta charset="UTF-8">
+     </head>
+     <body>
+         <div class="book-cover"> <form action="my.html" method="GET">
+         <h1><b>PROGRAM-BOOK</b></h1>
+         <h2><b>MGSET</b></h2>
+	 <div class="summary">
+         <p>ကျွုပ်သိရှိထား‌ေသာcode‌ေတွကိုဤစာအုပ်တွင်‌ေရးထားသည်</p>
+	 <p>‌ေလ့လာလိုပါကဝင်‌ေရာက်ကြည့်ရှုနိုင်ပါသည်</p>
+	 </div>
+	 <button type="button" onclick="change color"> </button>
+	 <button type="submit">Next</button>
+	 </form>
+         </div>
+     <script src="hello.js"> </script>
+     </body>
+</html>
+
