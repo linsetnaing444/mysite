@@ -1,13 +1,3 @@
-nano style.css
-nano index.html
-cd ,
-cd ..
-nano index.html
-cd devoloper
-ls
-nano java.script
-cd ..
-nano java.svript
 cd devoloper
 ls
 nano stye.css
@@ -498,3 +488,13 @@ git commit -m "update"
 git push -u origin main
 ls
 sl
+ls
+nano lin.html
+nano lin.css
+nano hello.css
+nano lin.css
+git add .
+git commit -m "update"
+git push -u origin main
+ls
+nano lin.html
